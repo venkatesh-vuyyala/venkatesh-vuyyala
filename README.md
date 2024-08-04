@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Lambda, vertexAI, AWS Sagemaker, LLM Fine Tuning**
 
-- 👨‍💻 All of my projects are available at [https://venkateshvuyyala.framer.ai](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://venkateshvuyyala.framer.ai)
 
 - 📝 I regularly write articles on [Loading...](Loading...)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vvuyyala03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K5NaQzhQ8-xB9eprgR-VEKInIDZfjHuM/view?usp=sharing](Read my CV)
+- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1K5NaQzhQ8-xB9eprgR-VEKInIDZfjHuM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
