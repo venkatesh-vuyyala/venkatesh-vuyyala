@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vvuyyala03@gmail.com**
 
-- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1K5NaQzhQ8-xB9eprgR-VEKInIDZfjHuM/view?usp=sharing)
+- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1jnBGPb6Y5Spl-3AKqjHtIkxHmDG1Bfta/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
