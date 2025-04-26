@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Vuyyala</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on **Email Categorization Tool**
-
-- 🌱 I’m currently learning **AWS Lambda, vertexAI, AWS Sagemaker, LLM Fine Tuning**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://venkateshvuyyala.framer.ai)
+- 🔭 I’m currently working on **MCP+AI Agents**
 
 - 📝 I regularly write articles on [Loading...](Loading...)
 
-- 💬 Ask me about **ETL,MachineLearning, Data Wrangling, Tableau**
+- 💬 Ask me about **ETL, Machine Learning, Data Wrangling, Tableau**
 
-- 📫 How to reach me **vvuyyala03@gmail.com**
+- 📫 How to reach me **vuyyalavenkatesh87@gmail.com**
 
-- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1jnBGPb6Y5Spl-3AKqjHtIkxHmDG1Bfta/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
