@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm venkatesh</h1>
-<h3 align="center">A passionate Data Scientist from California</h3>
+<h3 align="center">A passionate Software Engineer from California</h3>
 
 - 🔭 I’m currently working on **Building Agents for Small Language Models**
 
